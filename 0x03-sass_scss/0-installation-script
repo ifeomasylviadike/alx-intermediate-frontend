@@ -1,0 +1,6 @@
+## Steps to installing SASS
+1	Navigate to project folder
+2	Install SASS (npm install sass --save-dev)
+3	Create .scss files (e.g. globals.scss, variables.scss)
+4	Import .scss file in _app.tsx
+5	Use SASS features like variables, nesting, mixins
